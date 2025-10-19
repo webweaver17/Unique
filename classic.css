@@ -1,0 +1,1377 @@
+body{
+    background-color: white;
+    margin: 0px;
+}
+.first-ul{
+    display: flex;
+    list-style-type: none;
+    margin-top: 0px;
+}
+.first-li{
+    padding-left: 60px;
+    margin: 0;
+    padding-top: 8px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#first-facebook{
+    font-size: 25px;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.second-ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 15%;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second-li{
+    padding: 20px;
+}
+.father{
+    display: flex;
+    background-color: blue;
+    color: white;
+    height: 50px;
+    margin: 0%;
+    padding: 0%;
+}
+#first-hyper{
+    color: lightgoldenrodyellow;
+}
+#first-hyper:hover{
+    color: black;
+    text-decoration: none;
+}
+#first-facebook:hover{
+    color: lightgray;
+}
+#barrs{
+    display: flex;
+    padding-left: 50px;
+}
+.product{
+    padding-left: 10px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+#bars:hover{
+    color: blue;
+    text-decoration: none;
+}
+#barrs:hover{
+    color: blue;
+    text-decoration: none;
+}
+.father-hyper{
+    display: flex;
+    margin-top: 40px;
+}
+.second-father{
+    display: flex;
+    margin-top: 40px;
+    padding-top: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#fath{
+    padding-left: 50px;
+}
+#home{
+    margin-top: 0px;
+    padding-top: 0%;
+    font-size: 25px;
+}
+#fath:hover{
+    color: blue;
+    text-decoration: none;
+}
+#home:hover{
+    color: blue;
+    text-decoration: none;
+}
+.grand-father{
+    display: flex;
+    margin-top: 0px;
+    margin: 0px;
+}
+.unique{
+    margin-top: 0px;
+}
+.talent{
+    display: block;
+    margin-left: 40%;
+    margin-top: 0px;
+}
+.third-ul{
+    list-style-type: none;
+    display: flex;
+    margin-left: 150px;
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.third-li{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+#nav:hover{
+text-decoration: none;
+}
+.third-li #nav:hover{
+        color: blue;
+        display: block;
+}
+nav{
+    background-color: navy;
+    height: 60px;
+}
+#nav{
+    color: white;
+}
+.third-unique{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    padding-left: 50px;
+    animation: unique 5s infinite;
+}
+.third-unique:hover{
+    cursor: pointer;
+}
+.classify{
+    background-image: url(Terracotta-redwood.jpg);
+    background-size: cover;
+    padding: 120px;
+}
+.roof{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 32%;
+}
+.tiles{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mail:hover{
+    text-decoration: none;
+}
+/* button{
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    color: white;
+    border-radius: 30px;
+    border: 2px solid lightgray;
+    margin-left: 13%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+} */
+button:hover{
+    cursor: pointer;
+}
+.master{
+    margin-left: 10%;
+    margin-top: 10%;
+    display: flex;
+}
+.cl3{
+    margin-left: 170px;
+}
+.sign{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 40%;
+}
+.sig{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 30%;
+}
+.stone{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 30%;
+}
+.signing{
+    margin-left: 5%;
+}
+.homes{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 63px;
+}
+.principal{
+    display: flex;
+    margin-top: 5%;
+}
+.acc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 25%;
+    padding-top: 50px;
+    color: brown;
+}
+.ac{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 35%;
+    padding-top: 20px;
+    color: rgb(73, 73, 73);
+}
+#master{
+    display: flex;
+    margin-top: 5%;
+}
+.fr1{
+    margin-left: 5%;
+}
+.trim{
+    padding-left: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 32%;
+    color: white;
+    padding-top: 20px;
+}
+.div{
+    background-color: navy;
+    height: 100px;
+    margin-top: 10%;
+}
+.got{
+    padding-left: 30%;
+    color: white;
+}
+.we{
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 35%;
+    padding-top: 5%;
+}
+.length{
+    display: flex;
+}
+.late-div{
+    margin-left: 40px;
+    margin-top: 5%;
+}
+.well{
+    padding-left: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.us{
+    padding-left: 35%;
+}
+.capital{
+    display: flex;
+    margin-top: 5%;
+}
+.spec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5%;
+    padding-left: 35%;
+}
+.left{
+    margin-left: 30%;
+}
+.al{
+    padding: 5px;
+}
+.bigger{
+    background-color: navy;
+    display: flex;
+    color: white;
+    margin-top: 10%;
+}
+.big{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.third-h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.second-img{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.mail:hover{
+    text-decoration: none;
+}
+button:hover{
+    cursor: pointer;
+}
+.last-div{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.dev{
+    margin-left: 6%;
+    display: flex;
+    margin-top: 5%;
+}
+.sh{
+    margin-left: 2%;
+}
+.ml{
+    padding-left: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.view{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 27%;
+    padding-top: 5%;
+}
+.last-div{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+#weaver{
+    padding-left: 5px;
+    padding-top: 17px;
+    color: lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#weaver:hover{
+    text-decoration: underline;
+    color: navy;
+}
+footer{
+    background-color: black;
+    color: lightgoldenrodyellow;
+    display: flex;
+    height: 70px;
+    margin: 0px;
+    position: relative;
+    margin-top: 46%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.last-ul{
+display: flex;
+list-style-type: none;
+margin-left: 35%;
+}
+
+.thir-unique{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    padding-left: 50px;
+    animation: uniq 5s infinite;
+}
+.thir-unique:hover{
+    cursor: pointer;
+}
+@keyframes uniq{
+    from{
+        color: black;
+    }
+    to{
+        color: navy;
+        transition: 0.2s;
+    }
+}
+.mult{
+    padding-left: 30px;
+}
+.bacj{
+    margin-top: 10%;
+    height: 500px;
+    position: absolute;
+}
+.gallery{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 5%;
+    padding-left: 35%;
+    color: brown;
+}
+.fifth-ul{
+    display: flex;
+    list-style-type: none;
+}
+.fifth-li{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.fifth-back{
+    background-color: black;
+    color: white;
+    height: 70px;
+    width: 75%;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#fifth-li{
+    color: white;
+}
+#fifth-li:hover{
+    color: navy;
+}
+.first-classic{
+    margin-left: 10%;
+    margin-top: 30px;
+}
+.p{
+    margin-left: 65%;
+}
+.dep{
+    margin-left: 20%;
+}
+.a{
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 25%;
+    padding-top: 5%;
+}
+.b{
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 29%;
+    padding-top: 5%;
+}
+.c{
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 30%;
+    padding-top: 5%;
+}
+#yk{
+    margin-left: 10%;
+}
+.first-lia{
+    padding-left: 40px;
+    margin: 0;
+    padding-top: 8px;
+}
+.first-lib{
+    padding-left: 40px;
+    margin: 0;
+    padding-top: 8px;
+}
+span{
+    display: flex;
+}
+#first-envelope{
+    padding-top: 14px;
+    padding-right: 10px;
+}
+#envelope{
+    padding-top: 13px;
+    padding-right: 10px;
+}
+#ph{
+    padding-top: 14px;
+    padding-right: 10px;
+}
+.small{
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+#first-hyper{
+    color: lightgoldenrodyellow;
+    padding-top: 14px;
+}
+.her{
+    background-color: white;
+    color: black;
+    margin-left: 36px;
+    height: 60px;
+    width: 16%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#navt{
+    padding-left: 0%;
+    padding: 0px;
+}
+.third-liv{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.fir-button{
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    color: white;
+    border-radius: 30px;
+    border: 2px solid white;
+    margin-left: 16%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#home:hover{
+    color: blue;
+    text-decoration: none;
+}
+.grand-father{
+    display: flex;
+    margin-top: 0px;
+    margin: 0px;
+}
+.unique{
+    margin-top: 0px;
+}
+.talent{
+    display: block;
+    margin-left: 40%;
+    margin-top: 0px;
+}
+.third-ul{
+    list-style-type: none;
+    display: flex;
+    margin-left: 150px;
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.third-li{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+#nav:hover{
+text-decoration: none;
+}
+.third-li #nav:hover{
+        color: blue;
+        display: block;
+}
+nav{
+    background-color: navy;
+    height: 60px;
+}
+#nav{
+    color: white;
+}
+.third-unique{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    padding-left: 50px;
+    animation: unique 5s infinite;
+}
+.third-unique:hover{
+    cursor: pointer;
+}
+.classify{
+    background-image: url(o.jpg);
+    background-size: cover;
+    padding: 120px;
+}
+.roof{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 32%;
+}
+.tiles{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mail:hover{
+    text-decoration: none;
+}
+/* button{
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    color: white;
+    border-radius: 30px;
+    border: 2px solid lightgray;
+    margin-left: 0px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+} */
+button:hover{
+    cursor: pointer;
+}
+.master{
+    margin-left: 10%;
+    margin-top: 10%;
+    display: flex;
+}
+.cl3{
+    margin-left: 170px;
+}
+.roofing{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 40px;
+    padding-left: 40%;
+}
+
+.sign{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 35%;
+}
+.sig{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 30%;
+}
+.stone{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 30%;
+}
+.signing{
+    margin-left: 5%;
+}
+.sigg{
+    margin-left: 5%;
+}
+.homes{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 40px;
+}
+.principal{
+    display: flex;
+    margin-top: 10%;
+}
+.acc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 25%;
+    padding-top: 50px;
+    color: brown;
+}
+.ac{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 35%;
+    padding-top: 10px;
+    color: rgb(73, 73, 73);
+}
+#master{
+    display: flex;
+    margin-top: 5%;
+}
+.fr1{
+    margin-left: 5%;
+}
+.trim{
+    padding-left: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 42%;
+    color: white;
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div{
+    background-color: navy;
+    height: 100px;
+    margin-top: 10%;
+}
+.got{
+    padding-left: 30%;
+    color: white;
+}
+.we{
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 35%;
+    padding-top: 5%;
+}
+.length{
+    display: flex;
+}
+.late-div{
+    margin-left: 40px;
+    margin-top: 5%;
+}
+.well{
+    padding-left: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.wep{
+    padding-left: 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.us{
+    padding-left: 35%;
+}
+.capital{
+    display: flex;
+    margin-top: 5%;
+}
+.spec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5%;
+    padding-left: 35%;
+}
+.left{
+    margin-left: 30%;
+}
+.al{
+    padding: 5px;
+}
+.bigger{
+    background-color: navy;
+    display: flex;
+    color: white;
+    margin-top: 10%;
+}
+.big{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.third-h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.second-img{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.mail:hover{
+    text-decoration: none;
+}
+
+button{
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    color: white;
+    border-radius: 30px;
+    border: 2px solid white;
+    margin-left: 32%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+button:hover{
+    cursor: pointer;
+}
+.last-div{
+    display: flex;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.dev{
+    margin-left: 6%;
+    display: flex;
+    margin-top: 5%;
+}
+.sh{
+    margin-left: 2%;
+}
+.ml{
+    padding-left: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.view{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 27%;
+    padding-top: 5%;
+}
+.last-div{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+#weaver{
+    padding-left: 5px;
+    padding-top: 17px;
+    color: lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#weaver:hover{
+    text-decoration: underline;
+    color: navy;
+}
+footer{
+    background-color: black;
+    color: lightgoldenrodyellow;
+    display: flex;
+    height: 70px;
+    margin: 0px;
+    position: relative;
+    margin-top: 46%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.last-ul{
+display: flex;
+list-style-type: none;
+margin-left: 35%;
+}
+
+.thir-unique{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    padding-left: 50px;
+    animation: uniq 5s infinite;
+}
+.thir-unique:hover{
+    cursor: pointer;
+}
+@keyframes uniq{
+    from{
+        color: black;
+    }
+    to{
+        color: navy;
+        transition: 0.2s;
+    }
+}
+.mult{
+    padding-left: 30px;
+}
+.bacj{
+    margin-top: 10%;
+    height: 500px;
+    position: absolute;
+}
+.a{
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 25%;
+    padding-top: 5%;
+}
+.b{
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 29%;
+    padding-top: 5%;
+}
+.c{
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 30%;
+    padding-top: 5%;
+}
+.ga{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    padding-left: 40%;
+    padding-top: 5%;
+}
+.fifth-ul{
+    display: flex;
+    list-style-type: none;
+}
+.fifth-li{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.fifth-back{
+    background-color: black;
+    color: white;
+    height: 70px;
+    width: 75%;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#fifth-li{
+    color: white;
+}
+#fifth-li:hover{
+    color: navy;
+}
+.first-classic{
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.p{
+    margin-left: 65%;
+}
+.dep{
+    margin-left: 20%;
+}
+.dept{
+    margin-left: 10%;
+}
+#yk{
+    margin-left: 10%;
+}
+.small{
+    font-size: 15px;
+    padding-top: 80px;
+}
+ span{
+    display: flex;
+}
+#first-envelope{
+    padding-top: 14px;
+    padding-right: 10px;
+}
+#envelope{
+    padding-top: 13px;
+    padding-right: 10px;
+}
+#ph{
+    padding-top: 14px;
+    padding-right: 10px;
+}
+.small{
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+.first-lia{
+    padding-left: 40px;
+    margin: 0;
+    padding-top: 8px;
+}
+.first-lib{
+    padding-left: 40px;
+    margin: 0;
+    padding-top: 8px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#first-facebook{
+    font-size: 25px;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.second-li{
+    padding: 20px;
+}
+.plus{
+    margin-top: 0px;
+}
+.her{
+    background-color: white;
+    color: black;
+    margin-left: 36px;
+    height: 60px;
+    width: 16%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#navt{
+    padding-left: 0%;
+    padding: 0px;
+}
+.third-liv{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.menu-toggle {
+      display: none;
+      font-size: 28px;
+      color: black;
+      cursor: pointer;
+    }
+    .road{
+        background-color: blue;
+        height: 100px;
+        color: white;
+        margin-top: 15%;
+    }
+
+
+    @media  (max-width: 900px) {
+   .first-ul{
+    display: block;
+    list-style-type: none;
+    margin-top: 0px;
+    overflow: hidden;
+}
+.father{
+    height: 100%;
+    display: block;
+    margin-left: 0px;
+    width: 100%;
+    overflow-x: hidden;
+}
+.first-li{
+    padding-left: 0px;
+    overflow: hidden;
+}
+.firstly{
+    margin-left: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    overflow: hidden;
+}
+.small{
+    padding-left: 0%;
+    padding-top: 10px;
+    padding-right: 23%;
+    overflow: hidden;
+    font-size: 20px;
+}
+.first-li{
+    padding-left: 0px;
+    margin: 0;
+    padding-top: 8px;
+    font-size: 18px;
+    margin-left: 0px;
+}
+.first-lia{
+    padding-left: 0px;
+    padding-top: 0px;
+}
+.first-lib{
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-top: 30px;
+}
+.second-li{
+   margin-top: 60px;
+}
+#first-facebook{
+    font-size: 40px;
+}
+#envelope{
+    padding-left: 0px;
+    padding-right: 5%;
+    padding-top: 30px;
+    font-size: 25px;
+}
+.grand-father{
+    display: block;
+    overflow: hidden;
+}
+ .talent{
+    display: block;
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size: 20px;
+    overflow: hidden;
+    margin-top: 80px;
+}
+.third-ul{
+    display: block;
+    margin-left: 130px;
+    overflow: hidden;
+}
+.third-li{
+    padding-left: 40px;
+    padding-top: 40px;
+    overflow: hidden;
+}
+.third-unique{
+    padding-left: 50px;
+    overflow: hidden;
+}
+.second-unique{
+    margin-left: 0px;
+    overflow: hidden;
+}
+.multi{
+    font-size: 15px;
+    padding-left: 0px;
+    overflow: hidden;
+}
+
+.second-header{
+    font-size: 20px;
+    padding-left: 0px;
+    margin-left: 0px;
+    overflow: hidden;
+}
+.first-main{
+    margin-left: 6px;
+    overflow: hidden;
+}
+.first-h3{
+    font-size: 20px;
+    padding-left: 5px;
+    overflow: hidden;
+}
+.first-h2{
+    padding-left: 50px;
+    font-size: 15px;
+    overflow: hidden;
+    padding-top: 50px;
+}
+.gerrard-father{
+    display: block;
+    overflow: hidden;
+}
+.gerrard-mother{
+    display: block;
+}
+.sec-back{
+    margin-left: 30px;
+    width: 80%;
+}
+.third-back{
+    margin-left: 30px;
+    width: 80%;
+}
+.fourth-back{
+    margin-left: 30px;
+    width: 80%;
+}
+.fifth-back{
+    margin-left: 30px;
+    width: 80%;
+}
+.sixth-back{
+    margin-left: 30px;
+    width: 80%;
+}
+.seventh-back{
+    margin-left: 30px;
+    width: 80%;
+}
+.second-img{
+    width: 80%;
+    height: 25%;
+}
+.bigger{
+    display: block;
+    /* width: 94%; */
+    overflow: hidden;
+    margin-top: 140px;
+}
+.h1{
+    font-size: 20px;
+    padding-left: 90px;
+}
+.third-h3{
+    font-size: 15px;
+    padding-left: 0px;
+}
+button{
+    margin-left: 70px;
+    overflow: hidden;
+}
+.last-div{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.father-hyper{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#first-envelope{
+    font-size: 25px;
+}
+#first-hyper{
+    font-size: 25px;
+}
+#ph{
+    font-size: 25px;
+}
+.last-ul{
+    margin-left: 60px;
+    margin-top: 0%;
+    margin-bottom: 70%;
+}
+#weaver{
+    padding-left: 110px;
+    padding-top: 10%;
+}
+#first-facebook{
+    margin-top: 0px;
+}
+.menu-toggle {
+        display: block;
+  margin-right: 0px;
+  margin-top: 30px;
+  margin-left: 78%;
+  z-index: 200%;
+  font-size: 60px;
+      }
+            .third-ul {
+        display: none;
+        flex-direction: column;
+        background-color: navy;
+        text-align: left;
+        width: 50%;
+        height: 400px;
+        margin-left: 40%;
+        margin-right: 0%;
+        position: absolute;
+        z-index: 1000;
+      }
+      .third-ul.active {
+        display: flex;
+ }
+ nav{
+    background-color: white;
+ }
+ .back{
+   overflow: hidden;
+   margin-top: 40px;
+   position: relative;
+}
+.her{
+    background-color: white;
+    color: black;
+    margin-left: 0px;
+    height: 70px;
+    margin-top: 10%;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#navt{
+    padding-left: 0%;
+    padding: 0px;
+}
+.third-liv{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.p{
+    margin-left: 0%;
+    width: 200px;
+}
+.classify{
+    margin-left: 0px;
+}
+.roof{
+    font-size: 15px;
+    padding-left: 80px;
+}
+.master{
+    display: block;
+}
+.teak{
+    width: 90%;
+}
+.cl3{
+    margin-top: 90px;
+    margin-left: 0px;
+    width: 90%;
+}
+.roofing{
+    font-size: 25px;
+     color: black;
+     padding-left: 90px;
+}
+.principal{
+    margin-top: 50px;
+    display: block;
+}
+.signing{
+    width: 90%;
+    margin-top: 30%;
+}
+.sigg{
+    width: 90%;
+    margin-top: 10%;
+}
+.first-s{
+    margin-top: 60px;
+}
+.sign{
+    padding-top: 5px;
+}
+.homes{
+    padding-left: 5px;
+}
+.sec-s{
+    margin-top: 5%;
+}
+#yk{
+    margin-left: 6%;
+}
+.stone{
+    padding-top: 5px;
+    padding-left: 90px;
+}
+.acc{
+    font-size: 15px;
+    padding-left: 40px;
+}
+#master{
+    display: block;
+}
+.ac{
+    font-size: 15px;
+    padding-left: 3px;
+}
+.fr1{
+    margin-left: 10%;
+}
+.trim{
+    padding-left: 60px;
+}
+.div{
+    height: 150px;
+}
+.got{
+    font-size: 15px;
+    padding-left: 5px;
+}
+.h1{
+    padding-left: 30%;
+}
+.sig{
+    padding-left: 90px;
+    padding-top: 0px;
+}
+.finish{
+    padding-left: 0px;
+}
+.we{
+    font-size: 20px;
+    padding-left: 30px;
+}
+.dep{
+    margin-left: 40px;
+}
+.well{
+    padding-left: 40px;
+}
+.length{
+    display: block;
+}
+.late-div{
+    margin-top: 30%;
+}
+.spec{
+    font-size: 15px;
+    margin-top: 30%;
+    padding-left: 100px;
+}
+.h6{
+    padding-left: 60px;
+}
+.capital{
+    display: block;
+}
+.tile{
+    width: 100%;
+    margin-top: 10%;
+}
+.left{
+    margin-left: 0px;
+    margin-top: 30%;
+}
+.gallery{
+    font-size: 20px;
+    padding-left: 70px;
+    margin-top: 10%;
+}
+.first-classic{
+    display: block;
+}
+.view{
+    font-size: 15px;
+    padding-left: 30px;
+    padding-top: 20%;
+}
+.dev{
+    display: block;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.ml{
+    padding-left: 70px;
+}
+.bacj{
+    height: 450px;
+    margin-top: 40%;
+}
+footer{
+    display: block;
+    height: 280px;
+    margin-top: 140%;
+    overflow: hidden;
+}
+#envelope{
+    font-size: 30px;
+}
+.last-ul{
+    margin-left: 18%;
+}
+.product{
+    font-size: 15px;
+}
+}
